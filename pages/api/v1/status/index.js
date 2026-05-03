@@ -31,4 +31,4 @@ async function status(req, res) {
   });
 }
 
-module.exports = status;
+export default status;
